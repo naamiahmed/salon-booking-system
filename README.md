@@ -239,7 +239,7 @@ Elegance/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hassanwaheedali/EleganceSalon
+git clone https://github.com/naamiahmed/salon-booking-system
 cd "Elegence React Version"
 
 # 2. Navigate to the project directory
